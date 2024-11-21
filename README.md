@@ -1,42 +1,13 @@
 # SDA_Individual
 
-Chart 1: Donut to identify the most popular streaming services.
-![image](https://github.com/user-attachments/assets/e1fc1ba2-361e-4aa0-9f91-21e9cf7e0971)
 
-Interpretation: Spotify is the most popular streaming service, youtube being the 2nd.
+![image](https://github.com/user-attachments/assets/4bc3f590-8236-4fad-a3c2-4e199182f557)
 
+![image](https://github.com/user-attachments/assets/72543995-e6fe-40ee-919c-c4eb732b05a2)
 
-Chart 2: Understand the age demographics of participants.
-![image](https://github.com/user-attachments/assets/a544ce66-3a90-45ca-bc15-dceb68e55924)
-
-Interpretation: Maximum people belongs to age group 10-20, 20-30 being the 2nd.
+![image](https://github.com/user-attachments/assets/be329307-cd2f-4b33-8f50-97f28731e674)
 
 
-Chart 3: 
 
 
-Interpretation: 
 
-
-Chart 3: 
-
-
-Interpretation: 
-
-
-Chart 3: 
-
-
-Interpretation: 
-
-
-Chart 3: 
-
-
-Interpretation: 
-
-
-Chart 3: 
-
-
-Interpretation: 
