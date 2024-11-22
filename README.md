@@ -10,8 +10,12 @@
 
 
 1. Most Popular Streaming Services
+
 Interpretation: Identifies the most widely used streaming platforms. The chart likely shows platforms like Spotify, YouTube, or Apple Music leading in popularity.
+
 Insight: Popular platforms are preferred channels for delivering music therapy playlists or promotional content.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 2. Age Distribution
 Interpretation: Visualizes the distribution of respondent ages. A dominant age group (e.g., 18–24) might emerge.
 Insight: Music preferences and mental health metrics can be better understood by targeting the dominant age range.
